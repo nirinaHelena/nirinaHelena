@@ -6,7 +6,7 @@ Hi there! I'm Nirina Helena, a passionate IT student currently enrolled at the H
 
 - 🔭 Currently, I'm focusing on my studies at the Haute Ecole d'Informatique (HEI).
   
-- 🌱 I'm currently learning HTML, CSS, Javascript, Java, ReactJS, Nodejs, and also exploring the usage of AWS.
+- 🌱 I'm currently learning HTML, CSS, Javascript, Java, ReactJS, Spring boot and also exploring the usage of AWS.
 
 - 🤔 I'm seeking help in the realms of Artificial Intelligence, Data Management, and Operations.
 
